@@ -1,3 +1,3 @@
 # UnityTest
 
-kzkponkotu.github.io/UnityTestにアクセスするとWebサイトが見られる
+http://kzkponkotu.github.io/UnityTest/cube/にアクセスするとWebサイトが見られる
